@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "19e20813-9795-4f2b-80bf-23313d361285",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 250,
+  "height": 250,
+  "platformSettings": {},
+  "subMetas": {
+    "3D Gum Bot Preview": {
+      "ver": "1.0.4",
+      "uuid": "f395fddb-91e6-4961-b9fd-b6957d49927a",
+      "rawTextureUuid": "19e20813-9795-4f2b-80bf-23313d361285",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -6.5,
+      "offsetY": -6,
+      "trimX": 27,
+      "trimY": 26,
+      "width": 183,
+      "height": 210,
+      "rawWidth": 250,
+      "rawHeight": 250,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

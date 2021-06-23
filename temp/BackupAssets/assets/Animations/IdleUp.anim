@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "IdleUp",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.43333333333333335,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "d58529bc-fd0f-4cdc-b4c2-111ec3bc14ed"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "74eea1e2-a771-462d-b450-8bf10ecb7230"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "a1ad1181-4d51-4163-975d-50d9b06f3448"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "009fdd52-ce38-494c-959b-9064e5b6fc71"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "2a9839b9-633a-44e7-8478-ec5be3811be3"
+            }
+          },
+          {
+            "frame": 0.4166666666666667,
+            "value": {
+              "__uuid__": "6f288c74-5d1a-4af7-8e3f-7031b213f4fd"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

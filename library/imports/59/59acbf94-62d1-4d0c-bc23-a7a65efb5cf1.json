@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "controlsTutorial",
+    "texture": "b2c1ab43-6e1c-47e6-bc92-602d587a314f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      21,
+      21
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      21,
+      21
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

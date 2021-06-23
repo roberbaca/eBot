@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "orb_red",
+    "texture": "fb2b550a-afad-4c9d-9a4c-8dd4e2d16da3",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      25,
+      25
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      32,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

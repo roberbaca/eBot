@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ctrl",
+    "texture": "f8d29feb-9062-4700-a4ab-6ed201eced16",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      33,
+      21
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      33,
+      21
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "startDoor",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "5b925a08-5658-4df0-a3cf-6e47afe7a6bd"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "6379f956-0211-455e-974a-615ef6dd52c0"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "65dfb24b-4d64-4f68-9060-77c6b2fe90fa"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "a5be3b75-8f4a-4e2e-9043-de6c72647cc6"
+            }
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": {
+              "__uuid__": "65dfb24b-4d64-4f68-9060-77c6b2fe90fa"
+            }
+          },
+          {
+            "frame": 0.9166666666666666,
+            "value": {
+              "__uuid__": "6379f956-0211-455e-974a-615ef6dd52c0"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "5b925a08-5658-4df0-a3cf-6e47afe7a6bd"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

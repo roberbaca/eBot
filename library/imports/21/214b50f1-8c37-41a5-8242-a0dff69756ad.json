@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gumbot3d",
+    "texture": "d2c86ea7-b084-45d3-9a32-6c946cfe963a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      377,
+      353
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      377,
+      353
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

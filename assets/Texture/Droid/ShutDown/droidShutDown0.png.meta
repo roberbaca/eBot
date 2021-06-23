@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "966875e7-632b-4c86-800c-8a31025f52d4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "point",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 20,
+  "height": 20,
+  "platformSettings": {},
+  "subMetas": {
+    "droidShutDown0": {
+      "ver": "1.0.4",
+      "uuid": "1b306dcf-7be1-4d4f-b8bb-bdb67041f0ad",
+      "rawTextureUuid": "966875e7-632b-4c86-800c-8a31025f52d4",
+      "trimType": "none",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 20,
+      "height": 20,
+      "rawWidth": 20,
+      "rawHeight": 20,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

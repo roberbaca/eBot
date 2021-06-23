@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "walkRight",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.43333333333333335,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 0,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "75d18181-0dd1-488e-8b2f-6df04435d370"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "517c70bd-4782-4b65-b28e-e170813dd5c8"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "c0c359e9-78a0-4c6d-b6a3-98667014e227"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "15bb4b29-510e-42c1-a614-18570606fcfd"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "04f32433-b69b-4286-a6c8-a113e6bbae7b"
+            }
+          },
+          {
+            "frame": 0.4166666666666667,
+            "value": {
+              "__uuid__": "03bcda33-5986-4ba8-a9af-21c0f571fd46"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
